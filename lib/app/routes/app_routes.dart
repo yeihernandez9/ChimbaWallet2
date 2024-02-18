@@ -1,0 +1,35 @@
+class AppRoutes {
+  static const SPLASH = "/splash";
+  static const HOME = "/home";
+  static const CREATE_WALLET = "/create_wallet";
+  static const IMPORT_WALLET = "/import_wallet";
+  static const BEGINNING = "/beginning";
+  static const MNEMONIC = "/mnemonic";
+  static const VERIFYMNEMONIC = "/verify_mnemonic";
+  static const WELCOME = "/welcome";
+  static const IMPORT_MNEMONIC = "/import_mnemonic";
+  static const NAVIGATORBAR = "/navigator_bar";
+  static const SETTING = "/setting";
+  static const BROWSER = "/browser";
+  static const STAKING_DASHBOARD = "/staking_dashboard";
+  static const GOVERNANCE = "/governance";
+  static const SEND = "/send";
+  static const STAKING = "/staking";
+  static const UNSTAKING = "/unstaking";
+  static const REWARDS = "/rewards";
+  static const ACCOUNT = "/account";
+  static const BOOK = "/book";
+  static const PROPOSAL = "/proposal";
+  static const LOGIN = "/login";
+  static const SHOW_MNEMONIC = "/show_mnemonic";
+  static const QRSCANNER = "/qr_scanner";
+  static const CREATEBOOK = "/create_book";
+  static const SUCCESSFULTRANSACTION = "/successful_transaction";
+  static const FAILDTRANSACTION = "/faild_transacction";
+  static const OPT = "/opt";
+  static const PHONE = "/phone";
+  static const VERIFIED_WALLET = "/verified_wallet";
+  static const WALLET_CHANGE = "/wallet_change";
+  static const NOTIFICATION = "/notification";
+  static const NFTS = "/nfts";
+}

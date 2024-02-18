@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "136736242031",
+    "project_id": "chimba-billetera-push",
+    "storage_bucket": "chimba-billetera-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136736242031:android:25ac3160f9a1a51eda909a",
+        "android_client_info": {
+          "package_name": "ooo.chimba.chimbaWallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136736242031-8i6ld06qut7j38slqa3at2p6qi572hpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbGUdd9y6hVCO3BItxQ1naBoVppTa_j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136736242031-8i6ld06qut7j38slqa3at2p6qi572hpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136736242031-4fbs89i6f4hshg346nhj274u1e4vqhvg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chimbaWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
